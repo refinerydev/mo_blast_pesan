@@ -1,0 +1,116 @@
+Pesan terkirim ke: 6281214633976
+Pesan terkirim ke: 6281214440321
+Pesan terkirim ke: 6285624952926
+Pesan terkirim ke: 6282214889939
+Tidak dapat mengirim pesan ke no: 6289691427968
+Tidak dapat mengirim pesan ke no: 6282115763055
+Tidak dapat mengirim pesan ke no: 62895370246275
+Pesan terkirim ke: 6285220020789
+Tidak dapat mengirim pesan ke no: 6287738847112
+Pesan terkirim ke: 6285762982348
+Tidak dapat mengirim pesan ke no: 6285641291420
+Pesan terkirim ke: 628973394100
+Pesan terkirim ke: 6282297291408
+Pesan terkirim ke: 6281223333681
+Pesan terkirim ke: 6285819208404
+Pesan terkirim ke: 6281314969763
+Pesan terkirim ke: 6281312583281
+Pesan terkirim ke: 6287877902192
+Tidak dapat mengirim pesan ke no: 62881023131313
+Pesan terkirim ke: 6285864653691
+Pesan terkirim ke: 6285311153066
+Pesan terkirim ke: 6281991286197
+Tidak dapat mengirim pesan ke no: 6287742001522
+Pesan terkirim ke: 6283101955573
+Pesan terkirim ke: 6287773081614
+Pesan terkirim ke: 62895379221312
+Tidak dapat mengirim pesan ke no: 6285680274832
+Gagal dikirim ke no: 6281224356374Message: element click intercepted: Element <button class="tvf2evcx oq44ahr5 lb5m6g5c svlsagor p2rjqpw5 epia9gcq">...</button> is not clickable at point (1164, 676). Other element would receive the click: <div class="_3ev9-">...</div>
+  (Session info: chrome=103.0.5060.114)
+
+Tidak dapat mengirim pesan ke no: 6282146879549
+Pesan terkirim ke: 6285721111637
+Tidak dapat mengirim pesan ke no: 6287811166065
+Pesan terkirim ke: 628157029079
+Tidak dapat mengirim pesan ke no: 6281286020621
+Tidak dapat mengirim pesan ke no: 6282210216451
+Pesan terkirim ke: 6281222857261
+Pesan terkirim ke: 628980561236
+Tidak dapat mengirim pesan ke no: 6289662073691
+Pesan terkirim ke: 6285215261989
+Tidak dapat mengirim pesan ke no: 6285601287396
+Pesan terkirim ke: 6283820193315
+Tidak dapat mengirim pesan ke no: 6282116681181
+Tidak dapat mengirim pesan ke no: 6285724640819
+Tidak dapat mengirim pesan ke no: 6289669589085
+Pesan terkirim ke: 6285659593505
+Tidak dapat mengirim pesan ke no: 6289654796344
+Pesan terkirim ke: 6287823627941
+Pesan terkirim ke: 6282194341428
+Tidak dapat mengirim pesan ke no: 6285713094429
+Pesan terkirim ke: 6289506288548
+Tidak dapat mengirim pesan ke no: 6289682688207
+Pesan terkirim ke: 6285659554511
+Tidak dapat mengirim pesan ke no: 6281282431931
+Tidak dapat mengirim pesan ke no: 6282260868093
+Pesan terkirim ke: 6282130252010
+Pesan terkirim ke: 628986976939
+Tidak dapat mengirim pesan ke no: 6281334755526
+Pesan terkirim ke: 6282216862605
+Pesan terkirim ke: 6281312976202
+Tidak dapat mengirim pesan ke no: 6288218660812
+Tidak dapat mengirim pesan ke no: 6285733501215
+Pesan terkirim ke: 6285718868436
+Tidak dapat mengirim pesan ke no: 6282129637869
+Tidak dapat mengirim pesan ke no: 6285659514258
+Pesan terkirim ke: 6285317635940
+Pesan terkirim ke: 6285214126977
+Tidak dapat mengirim pesan ke no: 6283808084013
+Pesan terkirim ke: 6285724521814
+Tidak dapat mengirim pesan ke no: 6285210725712
+Tidak dapat mengirim pesan ke no: 6285314889978
+Pesan terkirim ke: 6282121881057
+Tidak dapat mengirim pesan ke no: 6281354955176
+Pesan terkirim ke: 6287888200160
+Pesan terkirim ke: 6281221841291
+Tidak dapat mengirim pesan ke no: 6287832467091
+Pesan terkirim ke: 6285156556355
+Pesan terkirim ke: 62895357314177
+Tidak dapat mengirim pesan ke no: 62895334819952
+Pesan terkirim ke: 6281296635662
+Pesan terkirim ke: 62895638859973
+Pesan terkirim ke: 6282122415056
+Pesan terkirim ke: 6289524487681
+Pesan terkirim ke: 6281294295109
+Pesan terkirim ke: 6287730101799
+Tidak dapat mengirim pesan ke no: 6282136508552
+Pesan terkirim ke: 6282194341428
+Pesan terkirim ke: 6281949177742
+Pesan terkirim ke: 6281286868565
+Pesan terkirim ke: 6289686030072
+Pesan terkirim ke: 6289622130754
+Pesan terkirim ke: 6281386882313
+Pesan terkirim ke: 6285891036249
+Pesan terkirim ke: 6281225525657
+Pesan terkirim ke: 628122400111
+Pesan terkirim ke: 6287848570077
+Pesan terkirim ke: 6281222184415
+Pesan terkirim ke: 6285156126348
+Pesan terkirim ke: 6285798220879
+Pesan terkirim ke: 6282118715350
+Pesan terkirim ke: 6285223103808
+Pesan terkirim ke: 6283844842424
+Pesan terkirim ke: 6281320239948
+Pesan terkirim ke: 6289527503198
+Pesan terkirim ke: 6282318049571
+Pesan terkirim ke: 6283824951495
+Pesan terkirim ke: 6283837328727
+Pesan terkirim ke: 6282117561411
+Pesan terkirim ke: 6282110593839
+Pesan terkirim ke: 6282216656001
+Selesai!
+terkirim:  74
+gagal:  35
+waktu eksekusi: 3347.7837047576904
+done
+done

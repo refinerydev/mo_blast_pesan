@@ -1,0 +1,122 @@
+Pesan terkirim ke: 6287888470304
+Pesan terkirim ke: 6285161502797
+Pesan terkirim ke: 6282295202531
+Pesan terkirim ke: 6285860411500
+Pesan terkirim ke: 6285324005392
+Pesan terkirim ke: 6281522553363
+Pesan terkirim ke: 62895334207059
+Tidak dapat mengirim pesan ke no: 6289630711887
+Pesan terkirim ke: 6289691232904
+Tidak dapat mengirim pesan ke no: 6281299871849
+Pesan terkirim ke: 6282124856841
+Pesan terkirim ke: 6282117878463
+Tidak dapat mengirim pesan ke no: 6287770343996
+Tidak dapat mengirim pesan ke no: 6285741233454
+Pesan terkirim ke: 6289513717969
+Tidak dapat mengirim pesan ke no: 6283151681817
+Gagal dikirim ke no: 6281807971072Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: chrome=103.0.5060.114)
+
+Gagal dikirim ke no: 6289616757260Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: chrome=103.0.5060.114)
+
+Tidak dapat mengirim pesan ke no: 62222504711
+Tidak dapat mengirim pesan ke no: 6281905818287
+Tidak dapat mengirim pesan ke no: 6281383469100
+Tidak dapat mengirim pesan ke no: 6285899129712
+Tidak dapat mengirim pesan ke no: 6285733501215
+Tidak dapat mengirim pesan ke no: 6281312650500
+Tidak dapat mengirim pesan ke no: 6289660752276
+Tidak dapat mengirim pesan ke no: 6281809786152
+Tidak dapat mengirim pesan ke no: 6283876721079
+Tidak dapat mengirim pesan ke no: 628882059365
+Tidak dapat mengirim pesan ke no: 6285162764994
+Tidak dapat mengirim pesan ke no: 628532178318
+Tidak dapat mengirim pesan ke no: 6282180687158
+Tidak dapat mengirim pesan ke no: 6285883344085
+Tidak dapat mengirim pesan ke no: 6282115763055
+Tidak dapat mengirim pesan ke no: 6281357515603
+Tidak dapat mengirim pesan ke no: 6282118613442
+Pesan terkirim ke: 6282120376198
+Pesan terkirim ke: 6281215864429
+Pesan terkirim ke: 628112160809
+Pesan terkirim ke: 6285741233454
+Pesan terkirim ke: 6287730423824
+Pesan terkirim ke: 628170276282
+Pesan terkirim ke: 6285314845595
+Pesan terkirim ke: 6287882970159
+Pesan terkirim ke: 6285647625760
+Pesan terkirim ke: 6282121628268
+Pesan terkirim ke: 6281320408018
+Pesan terkirim ke: 6282118436856
+Pesan terkirim ke: 6285320288174
+Pesan terkirim ke: 6281333008042
+Pesan terkirim ke: 6285220821398
+Pesan terkirim ke: 6282117000588
+Pesan terkirim ke: 6285321788318
+Pesan terkirim ke: 6281228511973
+Pesan terkirim ke: 6281221099557
+Pesan terkirim ke: 6285338739647
+Tidak dapat mengirim pesan ke no: 6285792696933
+Pesan terkirim ke: 6281221100142
+Pesan terkirim ke: 6288801033821
+Pesan terkirim ke: 6285156370793
+Pesan terkirim ke: 6289666109099
+Pesan terkirim ke: 6281299141433
+Pesan terkirim ke: 6287881122207
+Pesan terkirim ke: 6287848776979
+Pesan terkirim ke: 6285772928042
+Tidak dapat mengirim pesan ke no: 6285279532155
+Tidak dapat mengirim pesan ke no: 6281292089208
+Pesan terkirim ke: 6287705845515
+Pesan terkirim ke: 6282255448616
+Pesan terkirim ke: 6289693362418
+Pesan terkirim ke: 6282120513704
+Pesan terkirim ke: 6285772928042
+Pesan terkirim ke: 6281313976301
+Pesan terkirim ke: 6281383857885
+Pesan terkirim ke: 62881023011125
+Pesan terkirim ke: 6285298984424
+Pesan terkirim ke: 6281386882313
+Pesan terkirim ke: 6281281134698
+Pesan terkirim ke: 6281286164758
+Pesan terkirim ke: 6289531051194
+Pesan terkirim ke: 6281394088647
+Pesan terkirim ke: 6282116164814
+Pesan terkirim ke: 6281389031312
+Pesan terkirim ke: 6285721264378
+Pesan terkirim ke: 6281386848262
+Pesan terkirim ke: 62816800009
+Pesan terkirim ke: 6285720094340
+Pesan terkirim ke: 6285714499766
+Pesan terkirim ke: 62818773640
+Pesan terkirim ke: 6281320671151
+Pesan terkirim ke: 6289668175270
+Gagal dikirim ke no: 628132154756Message: disconnected: Unable to receive message from renderer
+  (Session info: chrome=103.0.5060.114)
+
+Tidak dapat mengirim pesan ke no: 6282295176966
+Pesan terkirim ke: 6289626197875
+Tidak dapat mengirim pesan ke no: 6281232728042
+Tidak dapat mengirim pesan ke no: 6289638287950
+Tidak dapat mengirim pesan ke no: 6281349234567
+Tidak dapat mengirim pesan ke no: 6281234567897
+Pesan terkirim ke: 6281573862673
+Tidak dapat mengirim pesan ke no: 6285656096292
+Pesan terkirim ke: 6282120349493
+Pesan terkirim ke: 628995678808
+Tidak dapat mengirim pesan ke no: 628127885640
+Pesan terkirim ke: 6287773362001
+Pesan terkirim ke: 6289624281108
+Tidak dapat mengirim pesan ke no: 6285716946408
+Pesan terkirim ke: 6281388583633
+Tidak dapat mengirim pesan ke no: 62895611492322
+Gagal dikirim ke no: 6289512360226Message: element click intercepted: Element <button class="tvf2evcx oq44ahr5 lb5m6g5c svlsagor p2rjqpw5 epia9gcq">...</button> is not clickable at point (1164, 676). Other element would receive the click: <div class="_3ev9-">...</div>
+  (Session info: chrome=103.0.5060.114)
+
+Selesai!
+terkirim:  71
+gagal:  38
+waktu eksekusi: 2920.7217218875885
+done
+done
