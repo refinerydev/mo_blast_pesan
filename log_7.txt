@@ -1,0 +1,49 @@
+Pesan terkirim ke: 6288223386329
+Pesan terkirim ke: 6289669880752
+Tidak dapat mengirim pesan ke no: 6287778788555
+Tidak dapat mengirim pesan ke no: 6282127692406
+Pesan terkirim ke: 6281295317262
+Tidak dapat mengirim pesan ke no: 6285157986255
+Pesan terkirim ke: 6285232778711
+Tidak dapat mengirim pesan ke no: 6285221491461
+Pesan terkirim ke: 6285159227817
+Pesan terkirim ke: 6282135202721
+Tidak dapat mengirim pesan ke no: 6281313525167
+Pesan terkirim ke: 6287864575943
+Tidak dapat mengirim pesan ke no: 6289600000000
+Tidak dapat mengirim pesan ke no: 6285256151331
+Tidak dapat mengirim pesan ke no: 6281321557083
+Tidak dapat mengirim pesan ke no: 628569959104
+Pesan terkirim ke: 6281912349494
+Tidak dapat mengirim pesan ke no: 6285786560840
+Gagal dikirim ke no: 6285720216008Message: element click intercepted: Element <button class="tvf2evcx oq44ahr5 lb5m6g5c svlsagor p2rjqpw5 epia9gcq">...</button> is not clickable at point (1164, 676). Other element would receive the click: <div class="_3ev9-">...</div>
+  (Session info: chrome=103.0.5060.114)
+
+Pesan terkirim ke: 62895358339093
+Tidak dapat mengirim pesan ke no: 6282115423200
+Pesan terkirim ke: 6285923142190
+Tidak dapat mengirim pesan ke no: 628983745776
+Pesan terkirim ke: 6287868707259
+Tidak dapat mengirim pesan ke no: 6281285147037
+Pesan terkirim ke: 6282130336138
+Pesan terkirim ke: 6281262488828
+Pesan terkirim ke: 628159196386
+Pesan terkirim ke: 6282284958022
+Pesan terkirim ke: 62811182436
+Pesan terkirim ke: 6287725008141
+Gagal dikirim ke no: 6285157986255Message: element click intercepted: Element <button class="tvf2evcx oq44ahr5 lb5m6g5c svlsagor p2rjqpw5 epia9gcq">...</button> is not clickable at point (1164, 676). Other element would receive the click: <div class="_3ev9-">...</div>
+  (Session info: chrome=103.0.5060.114)
+
+Tidak dapat mengirim pesan ke no: 6285703780125
+Pesan terkirim ke: 6281296060265
+Pesan terkirim ke: 6282215794906
+Pesan terkirim ke: 6282216014438
+Tidak dapat mengirim pesan ke no: 628121035922
+Tidak dapat mengirim pesan ke no: 6285157884925
+Pesan terkirim ke: 6285157986255
+Selesai!
+terkirim:  23
+gagal:  19
+waktu eksekusi: 1185.2008759975433
+done
+done

@@ -1,0 +1,114 @@
+Tidak dapat mengirim pesan ke no: 6282214895706
+Pesan terkirim ke: 6282316026912
+Pesan terkirim ke: 6281214932815
+Pesan terkirim ke: 6282119753006
+Tidak dapat mengirim pesan ke no: 6285328984803
+Pesan terkirim ke: 6285523981767
+Pesan terkirim ke: 6285886551491
+Tidak dapat mengirim pesan ke no: 6282127800185
+Tidak dapat mengirim pesan ke no: 6281240839606
+Pesan terkirim ke: 6282210348872
+Pesan terkirim ke: 6289607149928
+Pesan terkirim ke: 6289659498275
+Tidak dapat mengirim pesan ke no: 627787089547
+Pesan terkirim ke: 6283822504184
+Tidak dapat mengirim pesan ke no: 62822334455
+Tidak dapat mengirim pesan ke no: 6282124332409
+Pesan terkirim ke: 6281214242484
+Pesan terkirim ke: 6283145001577
+Pesan terkirim ke: 628112212899
+Pesan terkirim ke: 6282133581904
+Pesan terkirim ke: 6281286018696
+Pesan terkirim ke: 628118585517
+Pesan terkirim ke: 6281272777742
+Pesan terkirim ke: 6285866116041
+Pesan terkirim ke: 6281572127271
+Pesan terkirim ke: 6281315517077
+Tidak dapat mengirim pesan ke no: 6285156207996
+Pesan terkirim ke: 6282117355593
+Pesan terkirim ke: 6281395575395
+Pesan terkirim ke: 6281802008033
+Pesan terkirim ke: 6282119774233
+Pesan terkirim ke: 6281312412922
+Pesan terkirim ke: 6285717024252
+Pesan terkirim ke: 6282376128460
+Pesan terkirim ke: 628129345340
+Pesan terkirim ke: 6281219655746
+Pesan terkirim ke: 6289508299036
+Pesan terkirim ke: 628159216153
+Pesan terkirim ke: 6281395111194
+Pesan terkirim ke: 6289653679399
+Pesan terkirim ke: 6282293859800
+Pesan terkirim ke: 6281212365498
+Pesan terkirim ke: 6287727143817
+Pesan terkirim ke: 6285222245633
+Pesan terkirim ke: 6283823366934
+Pesan terkirim ke: 6285794214986
+Pesan terkirim ke: 6281214533462
+Pesan terkirim ke: 6281310767747
+Pesan terkirim ke: 6281292967488
+Pesan terkirim ke: 628164632182
+Pesan terkirim ke: 6282111451604
+Tidak dapat mengirim pesan ke no: 6289512361226
+Pesan terkirim ke: 6285213986272
+Pesan terkirim ke: 6285211330014
+Pesan terkirim ke: 6285882482243
+Pesan terkirim ke: 6287823627941
+Pesan terkirim ke: 6289681237211
+Pesan terkirim ke: 628122421675
+Pesan terkirim ke: 6281221239883
+Pesan terkirim ke: 62895342301465
+Tidak dapat mengirim pesan ke no: 6281608938345
+Pesan terkirim ke: 6288298162972
+Pesan terkirim ke: 6282120349493
+Pesan terkirim ke: 6285882723051
+Pesan terkirim ke: 6281321763035
+Pesan terkirim ke: 6282118436856
+Pesan terkirim ke: 6285721127244
+Pesan terkirim ke: 628122596291
+Tidak dapat mengirim pesan ke no: 6287771584084
+Tidak dapat mengirim pesan ke no: 6285161557786
+Pesan terkirim ke: 6289501330024
+Tidak dapat mengirim pesan ke no: 628122422765
+Pesan terkirim ke: 6281282075335
+Tidak dapat mengirim pesan ke no: 62864744557
+Pesan terkirim ke: 6281334773545
+Pesan terkirim ke: 6282125081921
+Pesan terkirim ke: 6289601041992
+Tidak dapat mengirim pesan ke no: 6289539720857
+Pesan terkirim ke: 6281284408172
+Pesan terkirim ke: 6282118715350
+Tidak dapat mengirim pesan ke no: 6281522465576
+Pesan terkirim ke: 6285315297367
+Pesan terkirim ke: 6285813946479
+Pesan terkirim ke: 6282115970135
+Pesan terkirim ke: 6281388656604
+Pesan terkirim ke: 6281802224118
+Pesan terkirim ke: 6285230011957
+Pesan terkirim ke: 6287780395573
+Pesan terkirim ke: 628121182218
+Pesan terkirim ke: 6281214216937
+Tidak dapat mengirim pesan ke no: 6285675646443
+Pesan terkirim ke: 6289517624222
+Pesan terkirim ke: 6281224265349
+Pesan terkirim ke: 6287883862892
+Pesan terkirim ke: 6281271062214
+Pesan terkirim ke: 6283107870864
+Tidak dapat mengirim pesan ke no: 6285871622425
+Pesan terkirim ke: 628126490010
+Pesan terkirim ke: 6285924004628
+Tidak dapat mengirim pesan ke no: 62813106835
+Pesan terkirim ke: 6281310681351
+Tidak dapat mengirim pesan ke no: 62812848204
+Pesan terkirim ke: 628111070501
+Pesan terkirim ke: 6285791945906
+Pesan terkirim ke: 6281320762430
+Pesan terkirim ke: 6282321163049
+Tidak dapat mengirim pesan ke no: 623432423423
+Pesan terkirim ke: 6285799345458
+Selesai!
+terkirim:  87
+gagal:  21
+waktu eksekusi: 2195.3393437862396
+done
+done

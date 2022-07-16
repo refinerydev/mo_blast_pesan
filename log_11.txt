@@ -1,0 +1,114 @@
+Pesan terkirim ke: 6282139390600
+Pesan terkirim ke: 6285280274421
+Pesan terkirim ke: 6287720231059
+Pesan terkirim ke: 6282119702773
+Pesan terkirim ke: 6285802984929
+Pesan terkirim ke: 6289515509669
+Pesan terkirim ke: 6285156454138
+Pesan terkirim ke: 6285222260595
+Pesan terkirim ke: 6282320260082
+Pesan terkirim ke: 6282321758683
+Tidak dapat mengirim pesan ke no: 6285624418568
+Pesan terkirim ke: 6285220396494
+Tidak dapat mengirim pesan ke no: 628515938179
+Pesan terkirim ke: 6281294547498
+Tidak dapat mengirim pesan ke no: 6282115500291
+Tidak dapat mengirim pesan ke no: 6289530329388
+Tidak dapat mengirim pesan ke no: 6282216230783
+Tidak dapat mengirim pesan ke no: 6282258220672
+Tidak dapat mengirim pesan ke no: 6285779833080
+Tidak dapat mengirim pesan ke no: 6282180887042
+Tidak dapat mengirim pesan ke no: 6282293339392
+Tidak dapat mengirim pesan ke no: 6285723215702
+Tidak dapat mengirim pesan ke no: 6282115281165
+Tidak dapat mengirim pesan ke no: 6285691951574
+Tidak dapat mengirim pesan ke no: 6281934125353
+Tidak dapat mengirim pesan ke no: 6281224176830
+Tidak dapat mengirim pesan ke no: 6285695652066
+Tidak dapat mengirim pesan ke no: 6287870228260
+Tidak dapat mengirim pesan ke no: 6285316152233
+Tidak dapat mengirim pesan ke no: 6282126367809
+Tidak dapat mengirim pesan ke no: 6281299804715
+Tidak dapat mengirim pesan ke no: 6281334179719
+Tidak dapat mengirim pesan ke no: 6285782612363
+Tidak dapat mengirim pesan ke no: 6285161802188
+Tidak dapat mengirim pesan ke no: 6282262417134
+Tidak dapat mengirim pesan ke no: 62895339878010
+Tidak dapat mengirim pesan ke no: 6281520439752
+Tidak dapat mengirim pesan ke no: 6281221661190
+Tidak dapat mengirim pesan ke no: 6281285811641
+Tidak dapat mengirim pesan ke no: 6283147695742
+Tidak dapat mengirim pesan ke no: 6281285962423
+Tidak dapat mengirim pesan ke no: 6281321288877
+Tidak dapat mengirim pesan ke no: 6287742001522
+Tidak dapat mengirim pesan ke no: 6281808810004
+Tidak dapat mengirim pesan ke no: 6281395330096
+Tidak dapat mengirim pesan ke no: 6281322666001
+Tidak dapat mengirim pesan ke no: 6287709101975
+Tidak dapat mengirim pesan ke no: 6282286156086
+Tidak dapat mengirim pesan ke no: 6282119460588
+Tidak dapat mengirim pesan ke no: 6285795392729
+Tidak dapat mengirim pesan ke no: 628817526814
+Tidak dapat mengirim pesan ke no: 6282318023460
+Tidak dapat mengirim pesan ke no: 6282136193388
+Tidak dapat mengirim pesan ke no: 6282128455166
+Tidak dapat mengirim pesan ke no: 6285729016629
+Tidak dapat mengirim pesan ke no: 6282140633610
+Tidak dapat mengirim pesan ke no: 6281228452125
+Tidak dapat mengirim pesan ke no: 6285814234854
+Tidak dapat mengirim pesan ke no: 6281214449996
+Tidak dapat mengirim pesan ke no: 6285156071724
+Tidak dapat mengirim pesan ke no: 6282126317401
+Tidak dapat mengirim pesan ke no: 6281320239948
+Tidak dapat mengirim pesan ke no: 6287774090262
+Tidak dapat mengirim pesan ke no: 6282289779066
+Tidak dapat mengirim pesan ke no: 6285256185077
+Tidak dapat mengirim pesan ke no: 6289660684971
+Tidak dapat mengirim pesan ke no: 62895389946307
+Tidak dapat mengirim pesan ke no: 628888507882
+Tidak dapat mengirim pesan ke no: 62895389946307
+Tidak dapat mengirim pesan ke no: 6281382950728
+Tidak dapat mengirim pesan ke no: 6281255520111
+Tidak dapat mengirim pesan ke no: 6281210347242
+Tidak dapat mengirim pesan ke no: 6285892732616
+Tidak dapat mengirim pesan ke no: 628998506916
+Tidak dapat mengirim pesan ke no: 6282117225717
+Tidak dapat mengirim pesan ke no: 6282214476488
+Tidak dapat mengirim pesan ke no: 6281334662112
+Tidak dapat mengirim pesan ke no: 628981714825
+Tidak dapat mengirim pesan ke no: 6281373693500
+Pesan terkirim ke: 6285716142388
+Pesan terkirim ke: 6285156375829
+Pesan terkirim ke: 62895391100363
+Pesan terkirim ke: 6287830449634
+Pesan terkirim ke: 6285800268464
+Pesan terkirim ke: 6285721111637
+Pesan terkirim ke: 628971511119
+Pesan terkirim ke: 6285161613908
+Pesan terkirim ke: 6285781166173
+Pesan terkirim ke: 6281802241729
+Pesan terkirim ke: 6281225174210
+Pesan terkirim ke: 6285762982348
+Tidak dapat mengirim pesan ke no: 6281111110843
+Tidak dapat mengirim pesan ke no: 6285691300959
+Pesan terkirim ke: 6281310056699
+Pesan terkirim ke: 6281321066771
+Pesan terkirim ke: 6285274645580
+Pesan terkirim ke: 6281809785626
+Pesan terkirim ke: 62818773640
+Pesan terkirim ke: 6285863342711
+Pesan terkirim ke: 6283156743137
+Tidak dapat mengirim pesan ke no: 6287763137290
+Tidak dapat mengirim pesan ke no: 62813212175848
+Tidak dapat mengirim pesan ke no: 6287728882160
+Pesan terkirim ke: 6281119051898
+Pesan terkirim ke: 6289501789424
+Pesan terkirim ke: 6282315829871
+Pesan terkirim ke: 6281324589927
+Pesan terkirim ke: 6283156743137
+Selesai!
+terkirim:  36
+gagal:  72
+waktu eksekusi: 967.7847111225128
+done
+done
