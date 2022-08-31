@@ -1,16 +1,11 @@
 Pesan terkirim ke: 6285724118975
 Pesan terkirim ke: 6282240116127
-Gagal dikirim ke no: 6281333610913Message: element click intercepted: Element <button class="tvf2evcx oq44ahr5 lb5m6g5c svlsagor p2rjqpw5 epia9gcq">...</button> is not clickable at point (1164, 676). Other element would receive the click: <div class="_3ev9-">...</div>
-  (Session info: chrome=103.0.5060.114)
-
-Tidak dapat mengirim pesan ke no: 6282298881208
 Pesan terkirim ke: 6282243034002
 Pesan terkirim ke: 6281220013839
 Pesan terkirim ke: 6285780063766
 Pesan terkirim ke: 6282272552171
 Pesan terkirim ke: 6282318971511
 Pesan terkirim ke: 6287877902192
-Tidak dapat mengirim pesan ke no: 6287832249129
 Pesan terkirim ke: 6281222184415
 Pesan terkirim ke: 6285710108838
 Pesan terkirim ke: 6287775818316
@@ -30,7 +25,6 @@ Pesan terkirim ke: 6282194341428
 Pesan terkirim ke: 6281254789447
 Pesan terkirim ke: 6282299230552
 Pesan terkirim ke: 6285872330588
-Tidak dapat mengirim pesan ke no: 6285156570705
 Pesan terkirim ke: 6289643360179
 Pesan terkirim ke: 6281283156475
 Pesan terkirim ke: 6281991286197
@@ -40,48 +34,26 @@ Pesan terkirim ke: 6282216100238
 Pesan terkirim ke: 6282214799914
 Pesan terkirim ke: 6281911335651
 Pesan terkirim ke: 6281388812349
-Tidak dapat mengirim pesan ke no: 6281380807684
-Tidak dapat mengirim pesan ke no: 62899931527
 Pesan terkirim ke: 6283895782150
 Pesan terkirim ke: 6281382701896
 Pesan terkirim ke: 628156266689
-Tidak dapat mengirim pesan ke no: 6281563362252
 Pesan terkirim ke: 6282116665588
 Pesan terkirim ke: 6285314889979
 Pesan terkirim ke: 6281906703256
 Pesan terkirim ke: 6283829036094
-Tidak dapat mengirim pesan ke no: 6281214961867
 Pesan terkirim ke: 6289515320425
-Tidak dapat mengirim pesan ke no: 6285607427104
 Pesan terkirim ke: 6281385263312
 Pesan terkirim ke: 6285860411500
-Tidak dapat mengirim pesan ke no: 6289610011973
-Tidak dapat mengirim pesan ke no: 6282210337036
-Tidak dapat mengirim pesan ke no: 6285866489329
-Tidak dapat mengirim pesan ke no: 6285156476424
-Tidak dapat mengirim pesan ke no: 6281910031136
-Tidak dapat mengirim pesan ke no: 62895392452603
-Tidak dapat mengirim pesan ke no: 6289503327018
-Tidak dapat mengirim pesan ke no: 6285759260859
-Tidak dapat mengirim pesan ke no: 6283844842424
-Tidak dapat mengirim pesan ke no: 6282127801662
-Tidak dapat mengirim pesan ke no: 628996989789
-Tidak dapat mengirim pesan ke no: 6281563821540
 Pesan terkirim ke: 6283876721079
 Pesan terkirim ke: 6285759351430
-Tidak dapat mengirim pesan ke no: 6285717582857
 Pesan terkirim ke: 6282217650540
 Pesan terkirim ke: 628122145445
-Tidak dapat mengirim pesan ke no: 6285778926168
 Pesan terkirim ke: 6287730463987
-Tidak dapat mengirim pesan ke no: 6281282153710
 Pesan terkirim ke: 628568185421
 Pesan terkirim ke: 6287741150505
-Tidak dapat mengirim pesan ke no: 6282248444515
 Pesan terkirim ke: 6285795851996
 Pesan terkirim ke: 6282120349493
 Pesan terkirim ke: 6285864376173
-Tidak dapat mengirim pesan ke no: 6281365852917
 Pesan terkirim ke: 6282243550420
 Pesan terkirim ke: 6282137201090
 Pesan terkirim ke: 6283199554190
@@ -95,13 +67,11 @@ Pesan terkirim ke: 6289646304475
 Pesan terkirim ke: 6281214449996
 Pesan terkirim ke: 628981714825
 Pesan terkirim ke: 6285222342031
-Tidak dapat mengirim pesan ke no: 6285718849558
 Pesan terkirim ke: 6283896995452
 Pesan terkirim ke: 6289618715327
 Pesan terkirim ke: 6285216284305
 Pesan terkirim ke: 6287832467091
 Pesan terkirim ke: 6287701746577
-Tidak dapat mengirim pesan ke no: 6285320187830
 Pesan terkirim ke: 6285812716524
 Pesan terkirim ke: 6282272552171
 Pesan terkirim ke: 6289697978170

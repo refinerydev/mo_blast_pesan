@@ -1,0 +1,25 @@
+1 Pesan terkirim ke: 6285798293205
+2 Tidak dapat mengirim pesan ke no: 62881220781
+3 Tidak dapat mengirim pesan ke no: 62835427533
+4 Tidak dapat mengirim pesan ke no: 6281073318124
+5 Tidak dapat mengirim pesan ke no: 6285155349039
+6 Tidak dapat mengirim pesan ke no: 6289656341424
+7 Tidak dapat mengirim pesan ke no: 628979281420
+8 Tidak dapat mengirim pesan ke no: 6285735715537
+9 Tidak dapat mengirim pesan ke no: 6288102321688
+10 Tidak dapat mengirim pesan ke no: 6299606155321
+11 Tidak dapat mengirim pesan ke no: 6281283502201
+12 Tidak dapat mengirim pesan ke no: 62827637267333
+13 Tidak dapat mengirim pesan ke no: 6289678267863
+14 Tidak dapat mengirim pesan ke no: 6218364292989
+15 Gagal dikirim ke no: 6282360160718Message: element click intercepted: Element <button class="tvf2evcx oq44ahr5 lb5m6g5c svlsagor p2rjqpw5 epia9gcq">...</button> is not clickable at point (1164, 676). Other element would receive the click: <div class="_3ev9-">...</div>
+  (Session info: chrome=103.0.5060.114)
+
+16 Pesan terkirim ke: 628981790035
+17 Tidak dapat mengirim pesan ke no: 6281221516011
+Selesai!
+terkirim:  3
+gagal:  15
+waktu eksekusi: 649.3152360916138
+done
+done

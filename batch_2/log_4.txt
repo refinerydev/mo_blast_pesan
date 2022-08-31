@@ -1,0 +1,11 @@
+1 Tidak dapat mengirim pesan ke no: 6281220003767
+2 Pesan terkirim ke: 6289663366710
+3 Tidak dapat mengirim pesan ke no: 6286545676578
+4 Pesan terkirim ke: 6285781975035
+5 Tidak dapat mengirim pesan ke no: 62838928928
+Selesai!
+terkirim:  2
+gagal:  3
+waktu eksekusi: 185.927405834198
+done
+done

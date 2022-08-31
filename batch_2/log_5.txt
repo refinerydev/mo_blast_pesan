@@ -1,0 +1,25 @@
+1 Tidak dapat mengirim pesan ke no: 6288866775588
+2 Tidak dapat mengirim pesan ke no: 6287778788555
+3 Pesan terkirim ke: 6282127692406
+4 Pesan terkirim ke: 6285157986255
+5 Pesan terkirim ke: 6285221491461
+6 Pesan terkirim ke: 6281313525167
+7 Tidak dapat mengirim pesan ke no: 6289600000000
+8 Tidak dapat mengirim pesan ke no: 6285256151331
+9 Pesan terkirim ke: 6281321557083
+10 Pesan terkirim ke: 628569959104
+11 Pesan terkirim ke: 6285786560840
+12 Pesan terkirim ke: 6285720216008
+13 Pesan terkirim ke: 6282115423200
+14 Pesan terkirim ke: 628983745776
+15 Pesan terkirim ke: 6281285147037
+16 Pesan terkirim ke: 6285157986255
+17 Pesan terkirim ke: 6285703780125
+18 Pesan terkirim ke: 628121035922
+19 Pesan terkirim ke: 6285157884925
+Selesai!
+terkirim:  15
+gagal:  4
+waktu eksekusi: 449.6426372528076
+done
+done

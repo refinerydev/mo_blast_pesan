@@ -37,7 +37,7 @@ msg_not_sent = []
 driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get('https://web.whatsapp.com')
 input('Tekan ENTER setelah berhasil login')
-for number in contacts:
+for index, number in enumerate(contacts):
     try:
         url = 'https://web.whatsapp.com/send?phone=' + str(number) + '&text=' + parsed_text 
         sent = False
@@ -50,7 +50,7 @@ for number in contacts:
             success += 1
             msg_sent.append(number)
         except Exception as e:
-            print('Tidak dapat mengirim pesan ke no: ' + str(number))
+            print(str(index+1) + ' Tidak dapat mengirim pesan ke no: ' + str(number))
             fail += 1
             msg_not_sent.append(number)
         else:
@@ -58,10 +58,10 @@ for number in contacts:
             click_btn.click()
             sent = True
             sleep(2)
-            print('Pesan terkirim ke: ' + str(number))
+            print(str(index+1) + ' Pesan terkirim ke: ' + str(number))
         count += 1
     except Exception as e:
-        print('Gagal dikirim ke no: ' + str(number) + str(e))
+        print(str(index+1) + ' Gagal dikirim ke no: ' + str(number) + str(e))
         fail += 1
         msg_not_sent.append(number)
 driver.quit()
